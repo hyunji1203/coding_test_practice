@@ -1,5 +1,5 @@
-import partone.Factors
+import partone.ThirdMaxNumber
 
 fun main(args: Array<String>) {
-    Factors().getFactors()
+    ThirdMaxNumber().getThirdMaxNumber()
 }
