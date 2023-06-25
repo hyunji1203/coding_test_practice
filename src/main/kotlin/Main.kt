@@ -1,5 +1,5 @@
-import partone.ThirdMaxNumber
+import partone.Decimal
 
 fun main(args: Array<String>) {
-    ThirdMaxNumber().getThirdMaxNumber()
+    Decimal().control()
 }
