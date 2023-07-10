@@ -1,4 +1,4 @@
-package new.firstweek
+package study.firstweek
 
 class Dice {
     fun main() {

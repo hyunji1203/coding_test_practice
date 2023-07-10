@@ -1,5 +1,6 @@
-import partone.Decimal
+import study.firstweek.Dice
+import study.secondweek.Plus3
 
 fun main(args: Array<String>) {
-    Decimal().control()
+    Plus3().main()
 }
